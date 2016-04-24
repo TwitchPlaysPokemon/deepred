@@ -1,0 +1,1 @@
+WARNING: This version of the AI is vastly depreciated and only works for Pokemon Anniversary Crystal. Use it at your own risk.
